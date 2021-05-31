@@ -1,0 +1,5 @@
+rootProject.name = "pr7"
+include ':app'
+include ':firebaseauth'
+include ':httpurlconnection'
+include ':socketconnection'
